@@ -119,4 +119,7 @@ main {
   .specialties .box {
     width: 300px;
   }
+  .specialties .box .images img {
+  width: 100px;
+}
 }
